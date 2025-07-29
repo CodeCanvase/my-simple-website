@@ -1,5 +1,11 @@
 div{
     background-color: tomato;
-    padding: 10px;
-    margin: 10px;
+    padding: 20px;
+    margin: 20px;
+    border-width: 10px;
+    border-radius: 10px;
+    border-color:rgb(255, 255, 255);
+    border-style:solid;
+    box-shadow: 10px 10px 10px rgb(235, 235, 235);
+   
 }
